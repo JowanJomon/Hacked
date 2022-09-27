@@ -6,7 +6,7 @@
 }
 
 .hacked {
-  background-image: url("/assets/giphy.webp");
+  background-image: url("/assets/giphy.gif");
   background-size: contain;
   height: 1420px;
   text-align: center;
@@ -15,13 +15,13 @@
   width: 100%;
 }
 h2 {
-  color: aliceblue;
+  color: rgb(171, 208, 34);
   font-size: 60px;
   text-shadow: 5px 5px 20px rgb(155, 158, 162);
 }
 h3 {
   font-size: 40px;
-  color: aliceblue;
+  color: rgb(223, 195, 86);
   padding-top: 50px;
 }
 button {
